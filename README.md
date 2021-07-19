@@ -5,7 +5,7 @@
 *Case Study:*
 * From UC Irvine’s Machine Learning Repository:
 * Topic: Bank Marketing
- * https://archive.ics.uci.edu/ml/datasets/Bank+Marketing# 
+  * https://archive.ics.uci.edu/ml/datasets/Bank+Marketing# 
 * Break down of the delivery
   * Code shared through GitHub 
   * 15-min presentation
