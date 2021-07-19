@@ -1,6 +1,6 @@
 # RockCentral-BankMarketingCase
 
-Michael Harder 
+*Michael Harder*
 
 Case Study:
 * From UC Irvine’s Machine Learning Repository:
@@ -14,5 +14,5 @@ Case Study:
 * How to get the data:
   * The case study is based on an example from UC Irvine’s Machine Learning Repository. Please use the URL (https://archive.ics.uci.edu/ml/datasets/Bank+Marketing ) for the data set description and the data file.
 *	Problem definition:
-* The aforementioned data set includes direct marketing campaigns (i.e. phone calls) of a Portuguese banking institution. The goal is to predict if the client will subscribe a term deposit (indicated in the y variable). Your task is to create a model that will help this banking institution determine, in advance, clients who will be receptive to such marketing campaigns. Clearly state the metric used for this problem
-![image](https://user-images.githubusercontent.com/87676370/126236275-b7cc9ba9-b39b-4092-b91c-139e1980b08f.png)
+* The aforementioned data set includes direct marketing campaigns (i.e. phone calls) of a Portuguese banking institution. The goal is to predict if the client will subscribe a term deposit (indicated in the y variable). Your task is to create a model that will help this banking institution determine, in advance, clients who will be receptive to such marketing campaigns. Clearly state the metric used for this problem.
+
